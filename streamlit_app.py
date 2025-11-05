@@ -25,4 +25,4 @@ page = st.sidebar.radio('Go to',
 # Home Page
 if page == '🏠 Home':
   st.markdown('<p class="main-header">Jaheim Hedge</p>', unsafe_allow_html=True)
-  st.markdown('<p class="sub-header">Aspiring Tech Professional | Medgar Evers College</p>', unsafe_allow_html=True)
+  st.markdown('<p class="sub-header">Aspiring Business owner l | Medgar Evers College</p>', unsafe_allow_html=True)
