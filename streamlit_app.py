@@ -44,14 +44,14 @@ if page == '🏠 Home':
   with col1:
     st.subheader('Welcome to my digital space!👋')
     st.write('''
-                I am a Computer Information Systems student passionate about web development and emerging technologies. Currently learning
-                HTML, CSS, JavaScript, and Python to build innovative solutions.
+                I am a 3rd year student at Medgar Ever College majoring in Business Administration. I aspire to own multiple business
+                as my goal is to be financially stable while being self employed.
             
-                🎯 **Current Focus:** Building interactive web applications with Streamlit
+                🎯 **Current Focus:** Graduating with Bachelors in Business Administration.
             
                 📚 **Currently Learning:** Internet and Emergin Technologies (CIS 211)
             
-                🌱 **Fun Fact:** I can solve a Rubik's cube in under 2 minutes!
+                🌱 **Fun Fact:** I am sneaker/clothing reseller.
             ''')
   with col2:
     # Placeholder for image
