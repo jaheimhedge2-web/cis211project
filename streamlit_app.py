@@ -31,7 +31,7 @@ if page == '🏠 Home':
   col1, col2, col3 = st.columns(3)
 
   with col1:
-      st.metric('GPA', '3.8', '📚')
+      st.metric('GPA', '3.5', '📚')
   with col2:
       st.metric('Projects', '5', '💻')
   with col3:
@@ -51,7 +51,7 @@ if page == '🏠 Home':
             
                 📚 **Currently Learning:** Internet and Emergin Technologies (CIS 211)
             
-                🌱 **Fun Fact:** I am sneaker/clothing reseller.
+                🌱 **Fun Fact:** I am 
             ''')
   with col2:
     # Placeholder for image
@@ -77,9 +77,8 @@ elif page == '🤠 About':
                 - AP Computer Science A (Score: 5)
                 - Founded Coding Club
             ''')
-
   st.subheader('Interests & Hobbies 🏈')
-  interests = ['Sneakers 👟', 'Football'🏈, 'Photography', 'Basketball', 'Travel', 'Baseball']
+  interests = ['Sneakers 👟', 'Football 🏈', '', 'Basketball', 'Travel', 'Baseball']
 
   # Display the interests in columns
   cols = st.columns(3)
