@@ -75,7 +75,7 @@ elif page == '🤠 About':
                 - 'Football Player 🏈'
                 - 'Carribean Fest 🇯🇲'
                 
-            ''')
+            
   st.subheader('Interests & Hobbies 🏈')
   interests = ['Sneakers 👟', 'Football 🏈', '', 'Basketball 🏀', 'Travel✈️', 'Video Games 🎮']
 
