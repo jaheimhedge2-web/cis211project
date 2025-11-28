@@ -42,7 +42,7 @@ if page == '🏠 Home':
   # Introduction with columns
   col1, col2 = st.columns([2,1])
   with col1:
-    st.subheader('Welcome to my digital space!👋')
+    st.subheader('Get to Know me 😎')
     st.write('''
                 I am a 3rd year student at Medgar Ever College majoring in Business Administration. I aspire to own multiple business
                 as my goal is to be financially stable while being self employed.
