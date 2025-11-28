@@ -55,7 +55,7 @@ if page == '🏠 Home':
             ''')
   with col2:
     # Placeholder for image
-    st.image('https://raw.githubusercontent.com/avinashjairam/cis211_project1/refs/heads/main/grumpy_cat.jfif', use_column_width=True)
+    st.image('https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.4qNnZ60z4uGmXKZSMQdtXgHaEo%3Fpid%3DApi&f=1&ipt=7de5e6a485ca521d94ad0dc6d9e0d24b724e3d4b8f03ff91b471643f1d6d312b&ipo=images', use_column_width=True)
 
 # About Page
 elif page == '🤠 About':
@@ -73,13 +73,13 @@ elif page == '🤠 About':
 
   with st.expander('2023 - 2025: NYC Museum School'):
     st.write('''
-                - Graduated with honors
-                - AP Computer Science A (Score: 5)
-                - Founded Coding Club
+                - Played on The Football Team
+                - Participated In Carribean Fest
+                - 
             ''')
 
   st.subheader('Interests & Hobbies 🏀')
-  interests = ['Web Development', 'AI/Machine Learning', 'Photography', 'Basketball', 'Travel', 'Baseball']
+  interests = ['Web Development', 'Sneakers 👟', 'Football 🏈', 'Basketball'🏀, 'Travel'✈️, 'The Wire 📺']
 
   # Display the interests in columns
   cols = st.columns(3)
