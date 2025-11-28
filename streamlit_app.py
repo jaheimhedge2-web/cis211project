@@ -65,7 +65,8 @@ elif page == '🤠 About':
   st.subheader('My Journey 🗺️')
 
   with st.expander('2025 - Present: Medgar Evers College'):
-    st.write('')
+    st.write('
+    )
                 - Major: Business Administration
                 - Relevant Coursework: International Business, Human Resources
                 
