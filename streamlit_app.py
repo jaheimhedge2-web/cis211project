@@ -71,7 +71,7 @@ elif page == '🤠 About':
                 - Activities: Track Team, Volleyball Team, Hackathon participant
             ''')
 
-  with st.expander('2019 - 2023: Midwood High School 🏫  ):
+  with st.expander('2019 - 2023: Midwood High School 🏫' ):
     st.write('''
                 - Played on The Football Team
                 - Participated In Carribean Fest
