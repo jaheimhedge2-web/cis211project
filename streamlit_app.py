@@ -68,9 +68,10 @@ elif page == '🤠 About':
     st.write('''
       - Major: Business Administration 
       
-                - Relevant Coursework: Human Resources, Programming, Database Systems, AI
-                - Activities: Track Team, Volleyball Team, Hackathon participant
+                - Relevant Coursework: Human Resources Management, International Business, Essentials of Marketing, 
+                
             ''')
+    
 
   with st.expander('2019 - 2023: Midwood High School 🏫' ):
     st.write('''
