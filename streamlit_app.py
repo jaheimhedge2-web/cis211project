@@ -64,14 +64,14 @@ elif page == '🤠 About':
   # Timeline of my Professional Journey
   st.subheader('My Journey 🗺️')
 
-  with st.expander('2025 - Present: Medgar Evers College'):
+  with st.expander('2024 - Present: Medgar Evers College'):
     st.write('''
-      - Major: Computer Information Systems
+      - Major: Business Administration 
                 - Relevant Coursework: Internet & Emerging Technologies, Programming, Database Systems, AI
                 - Activities: Track Team, Volleyball Team, Hackathon participant
             ''')
 
-  with st.expander('2023 - 2025: NYC Museum School'):
+  with st.expander('2019 - 2023: Midwood High School 🏫  ):
     st.write('''
                 - Played on The Football Team
                 - Participated In Carribean Fest
