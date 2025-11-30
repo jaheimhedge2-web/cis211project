@@ -195,7 +195,7 @@ elif page == '📩 Contact':
         [
             '👩‍💻 Coding',
             '📕 Studying',
-            '☕ On a coffee break',
+            '📺 Watching Tv',
             '🎮 Gaming',
             '😴 Sleeping'
         ]
@@ -207,7 +207,7 @@ elif page == '📩 Contact':
     # Footer
     st.write('---')
     st.markdown(
-        f'<center>Made with 💗 using Streamlit | © {datetime.now().year} Avinash Jairam </center>',
+        f'<center>Made with 💗 using Streamlit | © {datetime.now().year} Jaheim Hedge </center>',
         unsafe_allow_html = True
     )
     
