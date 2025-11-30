@@ -122,11 +122,11 @@ elif page == '🛠 Skills':
   st.subheader('Core Skills')
 
   skills_data = {
-    'Entrepreneurship' : 85,
-    'Social Media Strategy' : 70,
-    'Marketing Branding' : 60,
-    'Customer Service' : 50,
-    'Inventory & Order Managment' : 40
+    'Entrepreneurship' : 95,
+    'Social Media Strategy' : 80,
+    'Marketing Branding' : 75,
+    'Customer Service' : 100,
+    'Inventory & Order Managment' : 70
   }
 
   for skill, level in skills_data.items():
