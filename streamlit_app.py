@@ -67,8 +67,8 @@ elif page == '🤠 About':
   with st.expander('2024 - Present: Medgar Evers College'):
     st.write('''
       - Major: Business Administration 
-      - Relevant Coursework: Human Resources Management, International Business, Essentials of Marketing, 
-                
+      - Relevant Coursework: Human Resources Management, International Business, Essentials of Marketing
+       - Worked while going School         
             ''')
     
 
@@ -76,7 +76,7 @@ elif page == '🤠 About':
     st.write('''
                 - Played on The Football Team
                 - Participated In Carribean Fest
-                - 
+                -Spent my Sophmore year In Jamaica due to Covid-19
             ''')
 
   st.subheader('Interests & Hobbies 🏀')
