@@ -158,7 +158,7 @@ elif page == '📝 Resume':
   st.title('Resume')
 
   # Read PDF from my GitHub repository
-  with open('my_resume.pdf', 'rb') as pdf_file:
+  with open('https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn-images.zety.com%2Fpages%2Ffree_resume_templates_new_4.jpg&f=1&nofb=1&ipt=9fdb7bb6d9bb8d77c409a85f110b45555d63181ca727fae8788b3178b669e8ee', 'rb') as pdf_file:
     PDFbyte = pdf_file.read()
   
   st.download_button(
