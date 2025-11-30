@@ -76,8 +76,7 @@ elif page == '🤠 About':
     st.write('''
                 - Played on The Football Team
                 - Participated In Carribean Fest
-
-                 -Spent my Sophmore year In Jamaica due to Covid-19
+                - Spent my Sophmore year In Jamaica due to Covid-19
             ''')
 
   st.subheader('Interests & Hobbies 🏀')
