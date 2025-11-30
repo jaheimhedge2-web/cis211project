@@ -80,7 +80,7 @@ elif page == '🤠 About':
             ''')
 
   st.subheader('Interests & Hobbies 🏀')
-  interests = ['Web Development', 'Sneakers 👟', 'Football 🏈', 'Basketball 🏀', 'Travel✈️', 'The Wire 📺']
+  interests = ['Video Games 🎮', 'Sneakers 👟', 'Football 🏈', 'Basketball 🏀', 'Travel✈️', 'The Wire 📺']
 
   # Display the interests in columns
   cols = st.columns(3)
@@ -177,13 +177,13 @@ elif page == '📩 Contact':
     st.subheader('Send me a message.')
 
     st.write('''
-        📧 **Email:** yourname@email.com
+        📧 **Email:** Jahgtosole@gmail.com
 
         🏢 **LinkedIn:** [linkedin.com/in/yourname](https://linkedin.com)
 
         👩‍💻 **Github:** [https://github.com/avinashjairam](https://github.com)
 
-        📷 **Instagram:** [@yourhandle](https://instagram.com)
+        📷 **Instagram:** [@Jahgotsole](https://www.instagram.com/jahgotsole)
 
     ''')
 
