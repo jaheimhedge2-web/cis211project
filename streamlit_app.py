@@ -177,9 +177,9 @@ elif page == '📩 Contact':
     st.subheader('Send me a message.')
 
     st.write('''
-        📧 **Email:** Jahgtosole@gmail.com
+        📧 **Email:** Jahgotsole2@gmail.com
 
-        🏢 **LinkedIn:** [linkedin.com/in/yourname](https://linkedin.com)
+        🏢 **LinkedIn:** [https://www.linkedin.com/in/jaheim-hedge-2b3428240/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BWtNU%2BRW0RTiE2dKVg9T3Lw%3D%3D](https://linkedin.com)
 
         👩‍💻 **Github:** [https://github.com/avinashjairam](https://github.com)
 
