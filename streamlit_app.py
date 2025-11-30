@@ -181,7 +181,7 @@ elif page == '📩 Contact':
 
         🏢 **LinkedIn:** [https://www.linkedin.com/in/jaheim-hedge-2b3428240/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BWtNU%2BRW0RTiE2dKVg9T3Lw%3D%3D](https://linkedin.com)
 
-        👩‍💻 **Github:** [https://github.com/avinashjairam](https://github.com)
+        👩‍💻 **Github:** [https://github.com/jaheimhedge2](https://github.com)
 
         📷 **Instagram:** [@Jahgotsole](https://www.instagram.com/jahgotsole)
 
