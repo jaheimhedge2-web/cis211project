@@ -109,7 +109,7 @@ elif page == '💼 Projects':
   with st.container():
     col1, col2 = st.columns([1,2])
     with col1:
-      st.image('MEADOWLANDS', use_column_width = True)
+      st.image('https://crepprotect.com/blogs/crepdaily/crep-protect-returns-to-nyc-for-got-sole', use_column_width = True)
     with col2:
       st.subheader('📊 Student Grade Calulator')
       st.write('Interactive web app for calculating and visualizing grades')
