@@ -109,7 +109,7 @@ elif page == '💼 Projects':
   with st.container():
     col1, col2 = st.columns([1,2])
     with col1:
-      st.image('https://postimg.cc/nCRXRZQF', use_column_width = True)
+      st.image('<a href='https://postimg.cc/nCRXRZQF' target='_blank'><img src='https://i.postimg.cc/zG5TfGzg/IMG-1389.jpg' border='0' alt='IMG-1389'></a>', use_column_width = True)
     with col2:
       st.subheader('📊 Student Grade Calulator')
       st.write('Interactive web app for calculating and visualizing grades')
