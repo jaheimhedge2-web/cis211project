@@ -90,19 +90,19 @@ elif page == '🤠 About':
       
 elif page == '💼 Projects':
   st.title('My Projects')
-  st.write('Here are some projects I have worked on:')
+  st.write('Here is my most recent project.:')
 
   # Project 1
   with st.container():
     col1, col2 = st.columns([1, 2])
   
     with col1:
-        st.image('https://iprx-cms-content.ams1.vultrobjects.com/Blog_How_To_Crawl_4_capcha_ded9206d5f.png', use_column_width = True)
+        st.image(', use_column_width = True)
 
     with col2:
         st.subheader('👟 Jahgotsole')
-        st.write('Jahgotsole is my resale brand that specializes in buying,selling and trading sneakers, clothing and collectibles that gurantees 100% authenticity.')
-        
+        st.write('Jahgotsole is my resale brand that specializes in buying,selling and trading sneakers, clothing and collectibles that gurantees 100% authenticity. My brand stands out because I give people their most desired product at a reasonable cost.')
+        st.write(' 📷 **Instagram:** [@Jahgotsole](https://www.instagram.com/jahgotsole')
         
 
 elif page == '🛠 Skills':
