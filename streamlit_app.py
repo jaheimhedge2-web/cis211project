@@ -101,9 +101,8 @@ elif page == '💼 Projects':
 
     with col2:
         st.subheader('🛒 E-Commerce Price Tracker')
-        st.write('Python web scraper that monitors Amazon prices and sends alerts')
-        st.write('Python web scraper that monitors Amazon prices and sends alerts')
-        st.write('Python web scraper that monitors Amazon prices and sends alerts')
+        st.write('Jahgotsole is my resale brand that specializes in buying,selling and trading sneakers, clothing and collectibles that gurantees 100% authenticity.')
+        
         st.caption('**Technologies:** Python, BeautifulSoup, Streamlit')
 
 
