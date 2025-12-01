@@ -97,7 +97,7 @@ elif page == '💼 Projects':
     col1, col2 = st.columns([1, 2])
   
     with col1:
-        st.image('https://sneakerbardetroit.com/travis-scott-air-jordan-1-low-og-medium-olive/') use_column_width = True)
+        st.image('https://sneakerbardetroit.com/travis-scott-air-jordan-1-low-og-medium-olive/' use_column_width = True )
 
     with col2:
         st.subheader('👟 Jahgotsole')
