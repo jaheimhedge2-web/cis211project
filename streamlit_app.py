@@ -100,21 +100,10 @@ elif page == '💼 Projects':
         st.image('https://iprx-cms-content.ams1.vultrobjects.com/Blog_How_To_Crawl_4_capcha_ded9206d5f.png', use_column_width = True)
 
     with col2:
-        st.subheader('🛒 E-Commerce Price Tracker')
+        st.subheader('👟 Jahgotsole')
         st.write('Jahgotsole is my resale brand that specializes in buying,selling and trading sneakers, clothing and collectibles that gurantees 100% authenticity.')
         
-        st.caption('**Technologies:** Python, BeautifulSoup, Streamlit')
-
-
-  # Project 2 
-  with st.container():
-    col1, col2 = st.columns([1,2])
-    with col1:
-      st.image('https://crepprotect.com/blogs/crepdaily/crep-protect-returns-to-nyc-for-got-sole', use_column_width = True)
-    with col2:
-      st.subheader('📊 Student Grade Calulator')
-      st.write('Interactive web app for calculating and visualizing grades')
-      st.caption('**Technologies:** Python, Pandas, Plotly')
+        
 
 elif page == '🛠 Skills':
   st.title('Business Skills')
