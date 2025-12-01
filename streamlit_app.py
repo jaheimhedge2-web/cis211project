@@ -174,7 +174,7 @@ elif page == '📩 Contact':
   col1, = st.columns(1)
 
   with col1:
-    st.subheader('Send me a message.')
+    st.subheader('Shoot Me A Message ✉️.')
 
     st.write('''
         📧 **Email:** Jahgotsole2@gmail.com
