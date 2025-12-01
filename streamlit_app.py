@@ -97,7 +97,7 @@ elif page == '💼 Projects':
     col1, col2 = st.columns([1, 2])
   
     with col1:
-        st.image('https://sneakerbardetroit.com/travis-scott-air-jordan-1-low-og-medium-olive/', use_column_width = True )
+        st.image('https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2022%2F08%2Ftravis-scott-air-jordan-1-low-og-sp-black-phantom-on-foot-look-release-info-dm7866-001-001.jpg?cbr=1&q=90', use_column_width = True )
 
     with col2:
         st.subheader('👟 Jahgotsole')
