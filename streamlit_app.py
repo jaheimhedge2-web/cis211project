@@ -148,7 +148,7 @@ elif page == '📝 Resume':
   st.title('Resume')
 
   # Read PDF from my GitHub repository
-  with open('https://github.com/jaheimhedge2-web/cis211project/blob/main/resume%20template%20for%20cis.jpg', 'rb') as pdf_file:
+  with open('my_resume.pdf', 'rb') as pdf_file:
     PDFbyte = pdf_file.read()
   
   st.download_button(
